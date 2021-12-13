@@ -1,0 +1,12 @@
+/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/bin/Debug/net6.0/SpotifyBlazor.Shared.deps.json
+/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/bin/Debug/net6.0/SpotifyBlazor.Shared.dll
+/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/bin/Debug/net6.0/ref/SpotifyBlazor.Shared.dll
+/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/bin/Debug/net6.0/SpotifyBlazor.Shared.pdb
+/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/obj/Debug/net6.0/SpotifyBlazor.Shared.csproj.AssemblyReference.cache
+/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/obj/Debug/net6.0/SpotifyBlazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/obj/Debug/net6.0/SpotifyBlazor.Shared.AssemblyInfoInputs.cache
+/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/obj/Debug/net6.0/SpotifyBlazor.Shared.AssemblyInfo.cs
+/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/obj/Debug/net6.0/SpotifyBlazor.Shared.csproj.CoreCompileInputs.cache
+/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/obj/Debug/net6.0/SpotifyBlazor.Shared.dll
+/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/obj/Debug/net6.0/ref/SpotifyBlazor.Shared.dll
+/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/obj/Debug/net6.0/SpotifyBlazor.Shared.pdb
