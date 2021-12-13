@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Server/SpotifyBlazor.Server.csproj": {}
+  },
+  "projects": {
+    "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Client/SpotifyBlazor.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Client/SpotifyBlazor.Client.csproj",
+        "projectName": "SpotifyBlazor.Client",
+        "projectPath": "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Client/SpotifyBlazor.Client.csproj",
+        "packagesPath": "/Users/robbystigler/.nuget/packages/",
+        "outputPath": "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robbystigler/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/SpotifyBlazor.Shared.csproj": {
+                "projectPath": "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/SpotifyBlazor.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.0, 6.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Server/SpotifyBlazor.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Server/SpotifyBlazor.Server.csproj",
+        "projectName": "SpotifyBlazor.Server",
+        "projectPath": "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Server/SpotifyBlazor.Server.csproj",
+        "packagesPath": "/Users/robbystigler/.nuget/packages/",
+        "outputPath": "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Server/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robbystigler/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Client/SpotifyBlazor.Client.csproj": {
+                "projectPath": "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Client/SpotifyBlazor.Client.csproj"
+              },
+              "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/SpotifyBlazor.Shared.csproj": {
+                "projectPath": "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/SpotifyBlazor.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/SpotifyBlazor.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/SpotifyBlazor.Shared.csproj",
+        "projectName": "SpotifyBlazor.Shared",
+        "projectPath": "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/SpotifyBlazor.Shared.csproj",
+        "packagesPath": "/Users/robbystigler/.nuget/packages/",
+        "outputPath": "/Users/robbystigler/projects/sandbox/SpotifyBlazor/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robbystigler/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
